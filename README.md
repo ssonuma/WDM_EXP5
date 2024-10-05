@@ -89,5 +89,7 @@ if __name__ == "__main__":
 
 
 ### Output:
+![Screenshot 2024-10-05 081648](https://github.com/user-attachments/assets/3dae4d57-d72c-409f-97c2-2f4697d55821)
+
 
 ### Result:
